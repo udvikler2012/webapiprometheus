@@ -1,0 +1,15 @@
+route:
+  group_by: [Alertname]
+  # Send all notifications to me.
+  receiver: email_me
+
+receivers:
+- name: email_me
+  email_configs:
+    - to: receiver@mail.com
+      from: prometheus@mail.com
+      smarthost: smtp.gmail.com:587
+      auth_username: sender@mail.com
+      auth_identity: sender@mail.com
+      auth_password: senderPassword
+      send_resolved: true
