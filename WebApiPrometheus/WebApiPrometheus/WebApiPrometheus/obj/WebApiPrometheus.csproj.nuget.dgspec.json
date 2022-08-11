@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\WebApiPrometheus\\WebApiPrometheus\\WebApiPrometheus\\WebApiPrometheus.csproj": {}
+    "C:\\Projects\\prometheus\\WebApiPrometheus\\WebApiPrometheus\\WebApiPrometheus\\WebApiPrometheus.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\WebApiPrometheus\\WebApiPrometheus\\WebApiPrometheus\\WebApiPrometheus.csproj": {
+    "C:\\Projects\\prometheus\\WebApiPrometheus\\WebApiPrometheus\\WebApiPrometheus\\WebApiPrometheus.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\WebApiPrometheus\\WebApiPrometheus\\WebApiPrometheus\\WebApiPrometheus.csproj",
+        "projectUniqueName": "C:\\Projects\\prometheus\\WebApiPrometheus\\WebApiPrometheus\\WebApiPrometheus\\WebApiPrometheus.csproj",
         "projectName": "WebApiPrometheus",
-        "projectPath": "C:\\Projects\\WebApiPrometheus\\WebApiPrometheus\\WebApiPrometheus\\WebApiPrometheus.csproj",
+        "projectPath": "C:\\Projects\\prometheus\\WebApiPrometheus\\WebApiPrometheus\\WebApiPrometheus\\WebApiPrometheus.csproj",
         "packagesPath": "C:\\Users\\skyne\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\WebApiPrometheus\\WebApiPrometheus\\WebApiPrometheus\\obj\\",
+        "outputPath": "C:\\Projects\\prometheus\\WebApiPrometheus\\WebApiPrometheus\\WebApiPrometheus\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\skyne\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UduX7li64RgyJXw4FRxMo1jMRBgdY8TlZnxIxFQgWARDfach/oyjxzZhAlvT04LqEusYhCNff5MSsywC6Uk1kg==",
+  "dgSpecHash": "f+Q1OmLxfuTkPZa9+hy/BTe1/Rt5bHBYDC8n/xmosxUVYjHI5SeVDcQ8daSO49aKC4OiJKzZdln5sUSuuF22xA==",
   "success": true,
-  "projectFilePath": "C:\\Projects\\WebApiPrometheus\\WebApiPrometheus\\WebApiPrometheus\\WebApiPrometheus.csproj",
+  "projectFilePath": "C:\\Projects\\prometheus\\WebApiPrometheus\\WebApiPrometheus\\WebApiPrometheus\\WebApiPrometheus.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\skyne\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\skyne\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.9\\microsoft.extensions.configuration.3.1.9.nupkg.sha512",
